@@ -1,6 +1,7 @@
 # Metro Bike Share - Top 10 Bike Routes in Los Angeles
 
-![Metro Bike Share](link_to_your_image_here)
+
+![top10bikeroutes-LA](https://github.com/siddig-m/Top10BikeRoutes-LA/assets/55728795/d3e8e748-d6e7-43c8-9ed4-182393ec63ca)
 
 ## Overview
 
